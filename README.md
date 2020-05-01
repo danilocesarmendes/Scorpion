@@ -1,6 +1,6 @@
 # Scorpion #
 
-![alt text](https://github.com/danilocesarmendes/Scorpion/blob/master/images/scorpion.jpeg?raw=true)
+![alt text](https://github.com/danilocesarmendes/Scorpion/blob/master/images/scorpion.jpg?raw=true)
 
 ### Quais tecnologias encontra-se esse projeto? ###
 * Java [8](http://www.java.com)
