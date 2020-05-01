@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "application.usuario.email",
+    "type": "java.lang.String",
+    "description": "A description for 'application.usuario.email'"
+  },
+  {
+    "name": "application.usuario.senha",
+    "type": "java.lang.String",
+    "description": "A description for 'application.usuario.senha'"
+  },
+  {
+    "name": "application.usuario.nome",
+    "type": "java.lang.String",
+    "description": "A description for 'application.usuario.nome'"
+  },
+  {
+    "name": "application.usuario.smtp",
+    "type": "java.lang.String",
+    "description": "A description for 'application.usuario.smtp'"
+  }
+]}

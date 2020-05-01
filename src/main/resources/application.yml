@@ -1,0 +1,21 @@
+info:
+  app:
+   name: Scorpion
+   description: Project for Automation of proccess
+   version: 1.0.0
+   
+
+#config actuator
+endpoints:
+  beans:
+    sensitive: false
+  shutdown:
+    enabled: true
+    
+management:
+      security:
+            enabled: false
+
+security:
+  basic:
+    enabled: false
